@@ -2,6 +2,10 @@
 
 Working on embedded systems. Looking at hardware and sofware solutions using C++ and microcontrollers.
 
+🔭 I’m currently working on ...
+- Using the RP2040 as a cost effective development platform.
+- Cheap LED controller combining cc-drivers and cheap microcontroller.
+- Extending phone capabilities by breaking out hardware connections.
 <!--
 **jframirez/jframirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
