@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jordan Ramirez - jframirez 👋
+
+Working on embedded systems. Looking at hardware and sofware solutions using C++ and microcontrollers.
 
 <!--
 **jframirez/jframirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
